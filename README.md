@@ -7,6 +7,8 @@ It’s a session-based clickstream dataset with millions of browsing events (vie
 
 The dataset (and associated challenge materials) is hosted in this GitHub repository:
 
+The strategic goal is to use clickstream-based purchase predictions to forecast short-term product demand, guiding inventory replenishment decisions to reduce stockouts and overstock, and improve operational efficiency and profitability.
+
 📌 SIGIR eCOM 2021 Data Challenge Repository (dataset + utilities)
 
 Inside you’ll find:
