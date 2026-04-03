@@ -1,3 +1,8 @@
+The strategic goal is to use clickstream-based purchase predictions to forecast short-term product demand, guiding inventory replenishment decisions to reduce stockouts and overstock, and improve operational efficiency and profitability.
+
+We are building a machine learning model that takes session clickstream data as input and predicts the likelihood of purchase, which is then aggregated into SKU-level demand forecasts to guide inventory replenishment decisions.
+
+
 Here’s the definitive source for the dataset we’ve been talking about:
 
 📌 SIGIR 2021 E-Commerce Data Challenge (Coveo Data Challenge Dataset)
@@ -6,8 +11,6 @@ It’s a session-based clickstream dataset with millions of browsing events (vie
 📂 Official Source / Repository
 
 The dataset (and associated challenge materials) is hosted in this GitHub repository:
-
-The strategic goal is to use clickstream-based purchase predictions to forecast short-term product demand, guiding inventory replenishment decisions to reduce stockouts and overstock, and improve operational efficiency and profitability.
 
 📌 SIGIR eCOM 2021 Data Challenge Repository (dataset + utilities)
 
